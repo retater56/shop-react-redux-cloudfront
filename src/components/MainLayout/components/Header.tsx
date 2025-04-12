@@ -39,7 +39,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            My <u>Awesome</u> Store!
+            My <b>Awesome</b> Store!
           </Link>
         </Typography>
 
